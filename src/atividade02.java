@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class ativade02 {
+public class atividade02 {
     public static void main(String[] args) {
 
         Random gerador = new Random();
